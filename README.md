@@ -13,28 +13,19 @@ The following **required** functionality is complete:
 * [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 * [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
-The following **optional** features are implemented:
-
-* [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/sSsWyCnulY5b52yCWM/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
-There was not any challeenge found during the make of the prework, but with more time frame I could have the opportunity of improving the product for better user experience
+There was not any challeenge found during the make of the prework, but with more time available I could have the opportunity of improving the product for better user experience, but the basic requirement of the application of being a tip calculator is met 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Leonardo Osorio]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
