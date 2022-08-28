@@ -19,6 +19,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/sSsWyCnulY5b52yCWM/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src='https://media.giphy.com/media/T1id1Bmkr6DHCEcUEe/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ## Notes
 
 There was not any challeenge found during the make of the prework, but with more time available I could have the opportunity of improving the product for better user experience, but the basic requirement of the application of being a tip calculator is met 
