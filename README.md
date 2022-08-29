@@ -10,8 +10,8 @@ Time spent: 2 hour spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 ## Video Walkthrough
 
@@ -20,9 +20,10 @@ Here's a walkthrough of implemented user stories:
 <img src='https://media.giphy.com/media/sSsWyCnulY5b52yCWM/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <img src='https://media.giphy.com/media/T1id1Bmkr6DHCEcUEe/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 ## Notes
 
-There was not any challeenge found during the make of the prework, but with more time available I could have the opportunity of improving the product for better user experience, but the basic requirement of the application of being a tip calculator is met 
+There was not any challenge found during the make of the prework, but with more time available I could have the opportunity of improving the product for better user experience, but the basic requirement of the application of being a tip calculator is met 
 
 ## License
 
